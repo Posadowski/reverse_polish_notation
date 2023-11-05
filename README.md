@@ -29,8 +29,8 @@ Here's an example of how to run the program:
 
 ```sh
 ./reverse_polish_notation.exe
-Enter an algebraic expression: 3 + 4 * (2 - 1)
-Result: 7.0
+Enter an algebraic expression: 2*(2+1)
+Result: 6.00
 ```
 
 ## Supported Operators

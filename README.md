@@ -9,7 +9,7 @@ To use this program, follow these steps:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/reverse_polish_notation.git
+   git clone https://github.com/Posadowski/reverse_polish_notation.git
    ```
 
 2. Compile the C code using the provided Makefile:
@@ -56,5 +56,3 @@ This project was created as a learning exercise in C programming and the impleme
 
 Enjoy using the Reverse Polish Notation Calculator!
 ```
-
-Make sure to replace "your-username" with your actual GitHub username and customize the content further as needed. This README.md file provides basic information about the project, how to use it, supported operators, and information about contributions and licensing.

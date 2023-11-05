@@ -55,4 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This project was created as a learning exercise in C programming and the implementation of the Reverse Polish Notation algorithm.
 
 Enjoy using the Reverse Polish Notation Calculator!
-```

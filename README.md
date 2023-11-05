@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md file for your "reverse_polish_notation" repository in English:
-
-```markdown
 # Reverse Polish Notation Calculator
 
 This is a simple program written in C that converts algebraic expressions into Reverse Polish Notation (RPN) and then evaluates their value.
